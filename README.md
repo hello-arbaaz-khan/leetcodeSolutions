@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/hello-arbaaz-khan/leetcodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hello-arbaaz-khan/leetcodeSolutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/hello-arbaaz-khan/leetcodeSolutions/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/hello-arbaaz-khan/leetcodeSolutions/tree/master/0125-valid-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/hello-arbaaz-khan/leetcodeSolutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
